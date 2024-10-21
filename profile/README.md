@@ -1,4 +1,22 @@
-## Hi there 👋
+## kiOS - ki Operating System
+
+### About Us
+
+kiOS is a small project hoping to personalise the use of operating systems and protect the average user from
+corporate level privacy invasion and give compelete control to the user. This project is upcoming and was founded on 21/10/2024
+and therefore not much information is available right now.
+
+### Features
+
+- Not available
+
+### Requirements
+
+- AArch64 (arm64) CPU Architecture
+- 2GB RAM
+- 20+ GB Storage
+- QEMU Virtual Machine
+- A list of supported hardware/devices will be listed once progress has been made
 
 <!--
 
